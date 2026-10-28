@@ -1,0 +1,10 @@
+.streamlit/secrets.toml
+__pycache__/
+.pytest_cache/
+
+# Material del reto (no se sube al repositorio)
+Insumos/
+
+# Herramientas locales de asistentes
+.agents/
+.claude/
